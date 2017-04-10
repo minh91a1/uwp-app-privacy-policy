@@ -1,0 +1,43 @@
+                                    ===========================
+                                    Manga Reader Privacy Policy
+                                    ===========================
+
+                 The Manga Reader project is committed to protecting your privacy.
+This privacy & disclainer statement applies only to the services made available by the Manga Reader application.
+
+----------------------
+# Personal information
+----------------------
+This application does not collect or transmit any user's personally identifiable information. 
+No personal information is used, stored, secured or disclosed by services this application works with.
+
+--------------------------------------------------
+# Manga Reader needs to access your Picture folder
+--------------------------------------------------
+The Manga Reader initializes and maintains a folder named "MangaReaderUserSettings" in your "Pictures" folder.
+This folder is only used to save your personal settings of this application. 
+The personal settings includes backgrounds, bookmarks, application themes, application view mode, recent visit folder show or hide. 
+If you uninstall the Manga Reader from your device, this folder will not be removed.
+If you re-install the Manga Reader, this folder can be used to restore your application settings.
+The Manga Reader does not transmit any of datas in "MangaReaderUserSettings".
+The Manga Reader does not use any of your datas in your "Picture" folder other than "MangaReaderUserSettings" folder.
+
+----------------------------------------
+# Manga Reader needs Internet Connection
+----------------------------------------
+The Manga Reader application only use internet for:
+- You want to access to website using service supported by the Manga Reader.
+- You want to download image data from website using service supported by the Manga Reader.
+- Sending application crash report. The error information contains only application information for diagnosing errors 
+in the application for the purpose of improving the application and none other.
+
+The Manga Reader do not sell, lease, rent or otherwise disclose any data to third parties.
+
+-------------------------------------------
+# Report violations or get more information
+-------------------------------------------
+If you would like to report any violations of this policy or get more information on any app, 
+please contact me using email: minh91a1@gmail.com
+
+This policy is subject to change without notice. Please check this page for the latest privacy policy. 
+If you disagree with this policy, please discontinue use of the application.
